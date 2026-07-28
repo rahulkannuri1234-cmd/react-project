@@ -1,2 +1,7 @@
-# react-project
-My-React-app
+# Mini React App
+
+Install:
+```
+npm install
+npm run dev
+```
